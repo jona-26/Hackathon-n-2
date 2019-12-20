@@ -1,0 +1,34 @@
+
+    Question: "1.Qui est sangoku ?",
+    Réponse: A - Un moine Boudhiste.", " B - Le héros principale du manga Dragon Ball", "C - Le fils de Satan
+  	
+	Réponse :B 
+
+    Question: "2.Comment est ressuscité Sangoku pour la deuxième fois ? ",
+    Réponse:A- Par les boules de cristal", "B- Grâce à la fusion avec Vegeta avec les boucles d'oreilles", "C - Par le sacrifice du grand maître des dieux", " D - 	Par l'autorisation des dieux
+  
+	Réponse : B et D
+
+
+    Question: "3.Quelle est la particularité du Super Saiyan de Sangoku ? ",
+    Réponse: A - La couleur de ses cheveux", "B - Ses attaques", "C - Sa vitesse", " D - Sa défense
+ 	
+	Response : A
+
+    Question: "4.Quelle est la transformation maximale de Sangoku dans la saga Dragon Ball Z ? ",
+    Réponse: A - Super Saiyan 1", "B - Super Saiyan 2", " C - Super Saiyan 3", " D - Super Saiyan 4 
+ 	Reponse : C 
+
+    Question: "5.Combien y'a t-il de boules de crystal ?",
+    Réponse: A -2 ", " B - 5", "C - 7", "D - 3
+  
+	Réponse C
+
+    Question: "6. Trouvez l'intrus ",
+    Réponse:  A - Goku", " B - Freezer", "C - Gohan ", " D - Vegata
+	Reponse B 
+
+    Question: "7. Que fait le petit Sangohan lors de la pleine lune ?",
+    Réponse: A - Il mange", " B - Il se transforme en gorille", "C- Il dort
+
+  	Réponse B 
